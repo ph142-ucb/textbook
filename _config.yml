@@ -1,0 +1,5 @@
+title: "PH 142 Textbook (In Dev)"
+author: PH 142 Teaching Team
+logo: "src/ph142-logo.png"
+execute:
+  execute_notebooks: "off"
